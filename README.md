@@ -1,8 +1,9 @@
-[![MasterHead](https://images.app.goo.gl/5S6yEKzdtq88mAMK9)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&psig=AOvVaw1SZVjZmZ_Dzbh1CsA5_dUi&ust=1669378750410000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiP2srlxvsCFQAAAAAdAAAAABAE))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rishi Aravind</h1>
 <h3 align="center">A passionate developer , I Love to create new things using coding ♥️</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fcat-typing-gifs&psig=AOvVaw0az8COsk9fuu821cwxfhxu&ust=1669378288606000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND87e_jxvsCFQAAAAAdAAAAABAN)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiaravind2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishiaravind2004" /> </p>
 
